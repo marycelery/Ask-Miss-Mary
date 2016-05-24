@@ -14,33 +14,33 @@ Customer – persuing or in a corporate job
 
 1.	How to think about your career
 2.	Career Arc
-a.	What is it
-b.	Why do you care
+ * a.	What is it
+ * b.	Why do you care
 3.	People in the form of paper
-a.	Why do you care
-b.	Resume or CV or artist statements
-i.	How to distinguish yourself
-ii.	Languages you speak
-iii.	Hobbies you have
-iv.	Volunteer jobs you have held
-c.	Cover letter  - 
-i.	what is the point
-ii.	cover video ala Intern
-d.	Media presences
-i.	Linkedin
-ii.	Google results
+ * a.	Why do you care
+ * b.	Resume or CV or artist statement
+  * i.	How to distinguish yourself
+  * ii.	Languages you speak
+  * iii.	Hobbies you have
+  * iv.	Volunteer jobs you have held
+ * c.	Cover letter  - 
+  * i.	what is the point
+  * ii.	cover video ala Intern
+ * d.	Media presences
+  * i.	Linkedin
+  * ii.	Google results
 4.	People in the form of PEOPLE
-a.	Phone interviews
-b.	Skype or Facetime interviews
-c.	In person interviews “The Rules for Dating”
-i.	What is the point
-1.	I understand your business
-2.	I know what I can do what you can do for your business
-ii.	What to wear
-1.	You want to honor the person time
-2.	Show that you fit in
-3.	But dressed in a way that focuses their attention on what you say
-4.	Interesting necklace/red blouse
+ * a.	Phone interviews
+ * b.	Skype or Facetime interviews
+ * c.	In person interviews “The Rules for Dating”
+  * i.	What is the point
+   * 1.	I understand your business
+   * 2.	I know what I can do what you can do for your business
+  * ii.	What to wear
+   * 1.	You want to honor the person time
+   * 2.	Show that you fit in
+   * 3.	But dressed in a way that focuses their attention on what you say
+   * 4.	Interesting necklace/red blouse
 iii.	How to prepare
 1.	You always 2 questions to ask
 iv.	How to close
